@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/dragonslayer"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [-85, 135, 105],
+      "translation": [18, 18, -13],
+      "scale": [3.0, 3.0, 1.5]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [-85, 135, 105],
+      "translation": [18, 18, -13],
+      "scale": [3.0, 3.0, 1.5]
+    },
+    "firstperson_righthand": {
+      "rotation": [-85, 135, 105],
+      "translation": [0, 7, -10],
+      "scale": [3.0, 3.0, 1.5]
+    },
+    "firstperson_lefthand": {
+      "rotation": [-85, 135, 105],
+      "translation": [0, 7, -10],
+      "scale": [3.0, 3.0, 1.5]
+    }
+  }
+}

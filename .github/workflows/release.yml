@@ -1,0 +1,27 @@
+name: CI
+
+on:
+  push:
+    branches:
+    - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-slim
+    steps:
+      - uses: actions/checkout@v4
+      - name: Zip folders
+        run: |
+          cd ./weeb-data && zip -r ../weeb-data.zip * && cd ..
+          cd ./weeb-res && zip -r ../weeb-res.zip * && cd ..
+      - name: Upload
+        run: |
+          RES_SHA1=$(sha1sum "./weeb-res.zip" | awk '{print $1}')
+          gh release create ${GITHUB_SHA:0:6} ./weeb-data.zip ./weeb-res.zip -n "Resource Pack SHA1: $RES_SHA1"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash

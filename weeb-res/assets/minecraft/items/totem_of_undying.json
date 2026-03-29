@@ -1,0 +1,895 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "2B",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/2b"
+        }
+      },
+      {
+        "when": "Ai",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/ai"
+        }
+      },
+      {
+        "when": "Ais",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/ais"
+        }
+      },
+      {
+        "when": "Anko",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/anko"
+        }
+      },
+      {
+        "when": "Aqua",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/aqua"
+        }
+      },
+      {
+        "when": "Astolfo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/astolfo"
+        }
+      },
+      {
+        "when": "Asuka",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/asuka"
+        }
+      },
+      {
+        "when": "Asuna",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/asuna"
+        }
+      },
+      {
+        "when": "Beatrice",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/beatrice"
+        }
+      },
+      {
+        "when": "Bocchi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/bocchi"
+        }
+      },
+      {
+        "when": "C.C.",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/c.c."
+        }
+      },
+      {
+        "when": "Celty",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/celty"
+        }
+      },
+      {
+        "when": "Chika",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/chika"
+        }
+      },
+      {
+        "when": "Chito",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/chito"
+        }
+      },
+      {
+        "when": "Chris",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/chris"
+        }
+      },
+      {
+        "when": "Claire",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/claire"
+        }
+      },
+      {
+        "when": "Darkness",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/darkness"
+        }
+      },
+      {
+        "when": "Edward",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/edward"
+        }
+      },
+      {
+        "when": "Emilia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/emilia"
+        }
+      },
+      {
+        "when": "Eris",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/eris"
+        }
+      },
+      {
+        "when": "Eru",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/eru"
+        }
+      },
+      {
+        "when": "Falin",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/falin"
+        }
+      },
+      {
+        "when": "Faputa",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/faputa"
+        }
+      },
+      {
+        "when": "Faye",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/faye"
+        }
+      },
+      {
+        "when": "Fern",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/fern"
+        }
+      },
+      {
+        "when": "Frieren",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/frieren"
+        }
+      },
+      {
+        "when": "Gura",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/gura"
+        }
+      },
+      {
+        "when": "Hanekawa",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/hanekawa"
+        }
+      },
+      {
+        "when": "Haruhi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/haruhi"
+        }
+      },
+      {
+        "when": "Haruko",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/haruko"
+        }
+      },
+      {
+        "when": "Hestia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/hestia"
+        }
+      },
+      {
+        "when": "Hitagi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/hitagi"
+        }
+      },
+      {
+        "when": "Hiyori",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/hiyori"
+        }
+      },
+      {
+        "when": "Holo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/holo"
+        }
+      },
+      {
+        "when": "Izutsumi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/izutsumi"
+        }
+      },
+      {
+        "when": "Josee",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/josee"
+        }
+      },
+      {
+        "when": "Kaguya",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/kaguya"
+        }
+      },
+      {
+        "when": "Kallen",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/kallen"
+        }
+      },
+      {
+        "when": "Kana",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/kana"
+        }
+      },
+      {
+        "when": "Kanbaru",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/kanbaru"
+        }
+      },
+      {
+        "when": "Kaori",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/kaori"
+        }
+      },
+      {
+        "when": "Karen",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/karen"
+        }
+      },
+      {
+        "when": "Kikuri",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/kikuri"
+        }
+      },
+      {
+        "when": "Kohaku",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/kohaku"
+        }
+      },
+      {
+        "when": "Komi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/komi"
+        }
+      },
+      {
+        "when": "Konata",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/konata"
+        }
+      },
+      {
+        "when": "Kurisu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/kurisu"
+        }
+      },
+      {
+        "when": "Lain",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/lain"
+        }
+      },
+      {
+        "when": "Lemon",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/lemon"
+        }
+      },
+      {
+        "when": "Lucy",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/lucy"
+        }
+      },
+      {
+        "when": "Mai",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/mai"
+        }
+      },
+      {
+        "when": "Maka",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/maka"
+        }
+      },
+      {
+        "when": "Makima",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/makima"
+        }
+      },
+      {
+        "when": "Maomao",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/maomao"
+        }
+      },
+      {
+        "when": "Marcille",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/marcille"
+        }
+      },
+      {
+        "when": "Marin",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/marin"
+        }
+      },
+      {
+        "when": "Mayoi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/mayoi"
+        }
+      },
+      {
+        "when": "Megumin",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/megumin"
+        }
+      },
+      {
+        "when": "Michiru",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/michiru"
+        }
+      },
+      {
+        "when": "Mikasa",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/mikasa"
+        }
+      },
+      {
+        "when": "Miku",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/miku"
+        }
+      },
+      {
+        "when": "Milim",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/milim"
+        }
+      },
+      {
+        "when": "Misa",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/misa"
+        }
+      },
+      {
+        "when": "Misaki",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/misaki"
+        }
+      },
+      {
+        "when": "Misato",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/misato"
+        }
+      },
+      {
+        "when": "Momo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/momo"
+        }
+      },
+      {
+        "when": "Mordred",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/mordred"
+        }
+      },
+      {
+        "when": "Nadeko",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/nadeko"
+        }
+      },
+      {
+        "when": "Nakano",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/nakano"
+        }
+      },
+      {
+        "when": "Nanachi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/nanachi"
+        }
+      },
+      {
+        "when": "Nanakusa",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/nanakusa"
+        }
+      },
+      {
+        "when": "Nekoark",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/nekoark"
+        }
+      },
+      {
+        "when": "Neru",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/neru"
+        }
+      },
+      {
+        "when": "Nezuko",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/nezuko"
+        }
+      },
+      {
+        "when": "Nia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/nia"
+        }
+      },
+      {
+        "when": "Nino",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/nino"
+        }
+      },
+      {
+        "when": "Nobara",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/nobara"
+        }
+      },
+      {
+        "when": "Noko",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/noko"
+        }
+      },
+      {
+        "when": "Nyu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/nyu"
+        }
+      },
+      {
+        "when": "Ononoki",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/ononoki"
+        }
+      },
+      {
+        "when": "Osaka",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/osaka"
+        }
+      },
+      {
+        "when": "Otto",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/otto"
+        }
+      },
+      {
+        "when": "Ougi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/ougi"
+        }
+      },
+      {
+        "when": "Phos",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/phos"
+        }
+      },
+      {
+        "when": "Pino",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/pino"
+        }
+      },
+      {
+        "when": "Power",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/power"
+        }
+      },
+      {
+        "when": "Rakka",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/rakka"
+        }
+      },
+      {
+        "when": "Ram",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/ram"
+        }
+      },
+      {
+        "when": "Re-L",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/re-l"
+        }
+      },
+      {
+        "when": "Rebecca",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/rebecca"
+        }
+      },
+      {
+        "when": "Rei",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/rei"
+        }
+      },
+      {
+        "when": "Rem",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/rem"
+        }
+      },
+      {
+        "when": "Revy",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/revy"
+        }
+      },
+      {
+        "when": "Rikka",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/rikka"
+        }
+      },
+      {
+        "when": "Rimuru",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/rimuru"
+        }
+      },
+      {
+        "when": "Rin",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/rin"
+        }
+      },
+      {
+        "when": "Roxy",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/roxy"
+        }
+      },
+      {
+        "when": "Ryo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/ryo"
+        }
+      },
+      {
+        "when": "Ryuuko",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/ryuuko"
+        }
+      },
+      {
+        "when": "Sakuya",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/sakuya"
+        }
+      },
+      {
+        "when": "Shampoo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/shampoo"
+        }
+      },
+      {
+        "when": "Shinobu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/shinobu"
+        }
+      },
+      {
+        "when": "Shirase",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/shirase"
+        }
+      },
+      {
+        "when": "Shiro",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/shiro"
+        }
+      },
+      {
+        "when": "Shizuka",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/shizuka"
+        }
+      },
+      {
+        "when": "Shoko",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/shoko"
+        }
+      },
+      {
+        "when": "Shouko",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/shouko"
+        }
+      },
+      {
+        "when": "Sylphiette",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/sylphiette"
+        }
+      },
+      {
+        "when": "Tatsumaki",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/tatsumaki"
+        }
+      },
+      {
+        "when": "Teto",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/teto"
+        }
+      },
+      {
+        "when": "Togame",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/togame"
+        }
+      },
+      {
+        "when": "Tomoko",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/tomoko"
+        }
+      },
+      {
+        "when": "Tsukihi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/tsukihi"
+        }
+      },
+      {
+        "when": "Ubel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/ubel"
+        }
+      },
+      {
+        "when": "Ump45",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/ump45"
+        }
+      },
+      {
+        "when": "Uraraka",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/uraraka"
+        }
+      },
+      {
+        "when": "Violet",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/violet"
+        }
+      },
+      {
+        "when": "Vivy",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/vivy"
+        }
+      },
+      {
+        "when": "Vladilena",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/vladilena"
+        }
+      },
+      {
+        "when": "Yoko",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/yoko"
+        }
+      },
+      {
+        "when": "Yor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/yor"
+        }
+      },
+      {
+        "when": "Yui",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/yui"
+        }
+      },
+      {
+        "when": "Yuki",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/yuki"
+        }
+      },
+      {
+        "when": "Yuuki",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/yuuki"
+        }
+      },
+      {
+        "when": "Zelda",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/zelda"
+        }
+      },
+      {
+        "when": "Zero-Two",
+        "model": {
+          "type": "minecraft:model",
+          "model": "plushies:item/zero-two"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/totem_of_undying"
+    }
+  }
+}
