@@ -1,0 +1,10 @@
+{
+  "music_disc.gats": {
+    "sounds": [
+	  {
+        "name": "records/gats",
+	    "stream": true
+	  }
+    ]
+  }
+}
