@@ -34,7 +34,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Upload
         run: |
-          gh release create ${GITHUB_SHA:0:6} ./weeb-data.zip ./weeb-res.zip
+          gh release create ${GITHUB_SHA:0:6} ./weeb-data.zip ./weeb-res.zip -n "Resource Pack SHA1: ${sha1sum ./weeb-res.zip}"
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
