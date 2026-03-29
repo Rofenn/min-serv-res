@@ -28,8 +28,8 @@ jobs:
       # Runs a single command using the runners shell
       - name: Zip folders
         run: |
-          cd min-ser-res/weeb-data && zip -r ../../weeb-data.zip * && cd ../..
-          cd min-ser-res/weeb-res && zip -r ../../weeb-res.zip * && cd ../..
+          cd ./weeb-data && zip -r ../weeb-data.zip * && cd ..
+          cd ./weeb-res && zip -r ../weeb-res.zip * && cd ..
 
       # Runs a set of commands using the runners shell
       - name: Upload
